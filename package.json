@@ -8,5 +8,9 @@
     "serverless-offline": "^9.1.6",
     "serverless-plugin-typescript": "^2.1.2",
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^108.0.1",
+    "puppeteer-core": "^19.3.0"
   }
 }
